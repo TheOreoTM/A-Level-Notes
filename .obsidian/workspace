@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "64bf75108bad78be",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f6b57b6bb31c2d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Special Named Derived Units.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e69cc8edd54973aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3bf1b4a67d15f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "230d43ff4e82e334",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a92a3139082eb98b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86af99fc7107ddf9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "486d6db4169b380d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eefd5404fe0f8067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92a035196e1a24a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Special Named Derived Units.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffb47fed10d8363c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Special Named Derived Units.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55d987e8086e67de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61c15f39a0abc995",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Special Named Derived Units.md"
+              }
+            }
+          },
+          {
+            "id": "f7350c1344b5145d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0f6b57b6bb31c2d7",
+  "lastOpenFiles": [
+    "Volume.md",
+    "Physical Quantities.md",
+    "Special Named Derived Units.md",
+    "Area.md",
+    "Unit 1 - Intro.md"
+  ]
+}

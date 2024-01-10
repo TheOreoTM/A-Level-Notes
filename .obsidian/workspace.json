@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "64bf75108bad78be",
+    "type": "split",
+    "children": [
+      {
+        "id": "92866d9963005367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50881470e78330d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/1.1.4 Calculating Formulae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77fa8041b3db9685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/1.1.1 Formulae & Mass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e69cc8edd54973aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3bf1b4a67d15f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "230d43ff4e82e334",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a92a3139082eb98b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d82098e33eed75c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "486d6db4169b380d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eefd5404fe0f8067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92a035196e1a24a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chemistry/1.1.1 Formulae & Mass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffb47fed10d8363c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chemistry/1.1.1 Formulae & Mass.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55d987e8086e67de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61c15f39a0abc995",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chemistry/1.1.1 Formulae & Mass.md"
+              }
+            }
+          },
+          {
+            "id": "f7350c1344b5145d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "77fa8041b3db9685",
+  "lastOpenFiles": [
+    "Chemistry/1.1 Formula & Equations.md",
+    "Maths P1/1.1.2 Manipulating Surds.md",
+    "Maths P1/1.1.1 Laws of Indices.md",
+    "Chemistry/1.1.1 Formulae & Mass.md",
+    "Chemistry/1.1.2 Avogadro & the Mole.md",
+    "Chemistry/1.1.3 Full & Ionic Equations.md",
+    "Chemistry/1.1.4 Calculating Formulae.md",
+    "Images/Pasted image 20231206160518.png",
+    "Images/Pasted image 20231206160455.png",
+    "Chemistry/Conversions.md",
+    "Images/Pasted image 20231206154924.png",
+    "Images/Pasted image 20231206153129.png",
+    "Templates/Answer.md",
+    "Images/Pasted image 20231206152808.png",
+    "Images/Pasted image 20231206152652.png",
+    "Chemistry/Content.md",
+    "Images/Pasted image 20231206150607.png",
+    "Images/Pasted image 20231204134441.png",
+    "Images/Pasted image 20231206150527.png",
+    "Images/Pasted image 20231204134237.png",
+    "Physics/Homogeneity.md",
+    "Templates/Avogadros Constant Into Text.md",
+    "Templates/Avogadros Constant into Latex.md",
+    "Untitled",
+    "Templates/10 to the power.md",
+    "Physics/Volume.md",
+    "Physics/Vectors.md",
+    "Physics/Special Named Derived Units.md",
+    "Physics/Scalars.md",
+    "Physics/Prefixes.md",
+    "Physics/Physical Quantities.md",
+    "Physics/Newton's Laws Of Motion.md",
+    "Physics/Newton Law 3.md",
+    "Physics/Newton Law 2.md",
+    "Physics/Newton Law 1.md",
+    "Physics/Momentum.md",
+    "Physics/Moment.md",
+    "Chemistry/Worked Examples",
+    "Templates/Untitled.canvas",
+    "Templates",
+    "Maths P1/Worked Examples",
+    "Images",
+    "Maths P1/Practice Questions",
+    "Untitled.canvas",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw"
+  ]
+}

@@ -1,0 +1,1 @@
+Rational numbers can be written in the form ***a/b***, where ***a*** and ***b*** are both integers. An irrational number is a number that cannot be written in this way.  The decimal expansion of an irrational number goes on forever, and never recurs.

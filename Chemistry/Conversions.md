@@ -1,0 +1,9 @@
+$cm^{3} \rightarrow$ $dm^{3} = \div 1000$  
+$cm^{3} \rightarrow$ $m^{3} = \div 10^{6}$  
+$dm^{3} \rightarrow$ $m^{3} = \div 1000$  
+$\degree C \rightarrow K = +273$
+$K \rightarrow \degree C = -273$
+$kPa \rightarrow Pa = \times 1000$
+$Pa \rightarrow KPa = \div 1000$
+$g \rightarrow kg = \div 1000$ 
+$kg \rightarrow g = \times 1000$ 
